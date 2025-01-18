@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: My personal portfolio
+title: Weikang Weng
+logo: assets/img/pic.jpg
+description: This is my personal information site.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
