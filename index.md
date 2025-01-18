@@ -33,6 +33,17 @@ This project aims to achieve a nearly zero copy reallocation scheme for realloca
 
 ### Bsc Electrical Engineering and Logical Control - HZ University of applied science, Vlissingen, The Netherlands & Shanghai Maritime University, Shanghai, China
 
+## Service
+### Teaching Assistance - LIACS, Leiden University
+- Computer Architecture - 2024-2025 Q1
+- Cloud Computing - 2023-2024 Q2
+- Operating System - 2023-2024 Q2
+- Cloud Computing - 2022-2023 Q2
+- Distributed Data Processing System - 2022-2023 Q1
+
+### Researcher - De Zeeuse Huiskamer and Amels Holland, Vlissingen, The Netherland 
+- Find wearable solutions which meet the functional requirements and are suitable to control the living room for both clients on the yacht. Enhancing the overall user experience to use voice commands.  
+- Research and test solutions for improvements in the home automation system powered by ZigBee, Bluetooth LTE, and microphone arrays. 
 
 ## Skills:
 - C / C++
