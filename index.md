@@ -35,6 +35,8 @@ This project aims to achieve a nearly zero copy reallocation scheme for realloca
 
 ## Service
 ### Teaching Assistance - LIACS, Leiden University
+- Cloud Computing - 2024-2025 Q2
+- Operating System - 2024-2025 Q2
 - Computer Architecture - 2024-2025 Q1
 - Cloud Computing - 2023-2024 Q2
 - Operating System - 2023-2024 Q2
